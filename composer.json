@@ -1,0 +1,19 @@
+{
+  "name": "cobacobi/manage-core",
+  "description": "Core system for manage CMS",
+  "homepage": "http://cobacobi.com/project/manage",
+  "license": "BSD 3-Clause",
+  "keywords": ["manage", "cms", "kohana"],
+  "authors": [
+    {
+      "name": "Kusmayadi",
+      "email": "kusmayadi@cobacobi.com",
+      "homepage": "http://www.kusmayadi.com",
+      "role": "developer"
+    }
+  ],
+  "require": {
+    "kohana/core": "v3.3.1",
+    "php": ">=5.3.3"
+  }
+}
